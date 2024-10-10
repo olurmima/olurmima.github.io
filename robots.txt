@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olurmima.github.io/sitemap.html.gz
+Sitemap: https://olurmima.github.io/app/sitemap.html.gz
+Sitemap: https://olurmima.github.io/assets/sitemap.html.gz
+Sitemap: https://olurmima.github.io/css/sitemap.html.gz
+Sitemap: https://olurmima.github.io/includes/sitemap.html.gz
+Sitemap: https://olurmima.github.io/item/sitemap.html.gz
+Sitemap: https://olurmima.github.io/src/sitemap.html.gz
